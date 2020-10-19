@@ -1,0 +1,13 @@
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp3.1\ShoppingCart.exe
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp3.1\ShoppingCart.deps.json
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp3.1\ShoppingCart.runtimeconfig.json
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp3.1\ShoppingCart.runtimeconfig.dev.json
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp3.1\ShoppingCart.dll
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\bin\Debug\netcoreapp3.1\ShoppingCart.pdb
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.csprojAssemblyReference.cache
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.AssemblyInfo.cs
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.dll
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.pdb
+C:\Users\gmarek\Documents\ESILV\S5\POO\Week 6\ShoppingCart\ShoppingCart\obj\Debug\netcoreapp3.1\ShoppingCart.genruntimeconfig.cache
